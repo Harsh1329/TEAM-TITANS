@@ -1,0 +1,18 @@
+# Node modules
+node_modules/
+client/node_modules/
+server/node_modules/
+
+# Logs
+*.log
+logs/
+
+# Environment variables
+.env
+
+# Image uploads (optional, if not needed)
+server/uploads/
+
+# OS/system files
+.DS_Store
+Thumbs.db
